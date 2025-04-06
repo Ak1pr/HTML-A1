@@ -1,0 +1,29 @@
+Block elements 
+
+Inline elements
+
+schemantic and non schemantic 
+
+div tag 
+summary tag 
+details tag 
+
+<details >
+<summary>
+This is summary  </summary>
+<p>aaaaaaaaaaaaaaaaaaaaaa</p>	
+
+</details >
+
+dialog tag -- it is close bydefault 
+to printout the data we used open inside dialog tag 
+
+<dialog open > Hello </dialog>
+
+
+pre tag 
+
+text area tag 
+
+<textarea name = "" id = "" placeholder= "Message"> </textarea>
+
